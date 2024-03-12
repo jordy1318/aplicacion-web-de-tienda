@@ -1,0 +1,6 @@
+Este proyecto tiene al funcionamiento de ser una aplicación de control de inventario, desarrollado en Java e implementado los patrones de diseño Grasp, MVC y DAO
+
+Despliega una interfaz grafica que funciona como la vista del sistema para que el usuario pues interactuar con el, cuenta con una primera interfaz de validación
+de usuario por medio de un sistema de archivos, posteriormente el sistema se conecta con una 
+base de datos desarrollada en MySQL en donde se
+manejan los datos de los productos que se desean almacenar, ya sea el tipo de producto, marca, disponibilidad, cantidad, entre otros. 
